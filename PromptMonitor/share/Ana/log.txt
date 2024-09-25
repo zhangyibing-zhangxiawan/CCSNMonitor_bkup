@@ -1,0 +1,168 @@
+Reading the data for intp1311.data with MO:0
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+/junofs/users/huangx/myProject/CCSNMonitor/PromptMonitor/myJob/result/sn_intp1311.data/0/410/TimeInterval/2_T8.2/promptTrigger_15.root does not exist!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+/junofs/users/huangx/myProject/CCSNMonitor/PromptMonitor/myJob/result/sn_intp1311.data/0/410/TimeInterval/2_T8.2/promptTrigger_47.root does not exist!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+/junofs/users/huangx/myProject/CCSNMonitor/PromptMonitor/myJob/result/sn_intp1311.data/0/410/TimeInterval/2_T8.2/promptTrigger_61.root does not exist!
+Trigger not found!
+/junofs/users/huangx/myProject/CCSNMonitor/PromptMonitor/myJob/result/sn_intp1311.data/0/410/TimeInterval/2_T8.2/promptTrigger_63.root does not exist!
+Trigger not found!
+Trigger not found!
+/junofs/users/huangx/myProject/CCSNMonitor/PromptMonitor/myJob/result/sn_intp1311.data/0/410/TimeInterval/2_T8.2/promptTrigger_67.root does not exist!
+Trigger not found!
+Trigger not found!
+/junofs/users/huangx/myProject/CCSNMonitor/PromptMonitor/myJob/result/sn_intp1311.data/0/410/TimeInterval/2_T8.2/promptTrigger_70.root does not exist!
+/junofs/users/huangx/myProject/CCSNMonitor/PromptMonitor/myJob/result/sn_intp1311.data/0/410/TimeInterval/2_T8.2/promptTrigger_71.root does not exist!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+/junofs/users/huangx/myProject/CCSNMonitor/PromptMonitor/myJob/result/sn_intp1311.data/0/410/TimeInterval/2_T8.2/promptTrigger_81.root does not exist!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+/junofs/users/huangx/myProject/CCSNMonitor/PromptMonitor/myJob/result/sn_intp1311.data/0/410/TimeInterval/2_T8.2/promptTrigger_89.root does not exist!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+/junofs/users/huangx/myProject/CCSNMonitor/PromptMonitor/myJob/result/sn_intp1311.data/0/410/TimeInterval/2_T8.2/promptTrigger_96.root does not exist!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+/junofs/users/huangx/myProject/CCSNMonitor/PromptMonitor/myJob/result/sn_intp1311.data/0/410/TimeInterval/2_T8.2/promptTrigger_101.root does not exist!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+/junofs/users/huangx/myProject/CCSNMonitor/PromptMonitor/myJob/result/sn_intp1311.data/0/410/TimeInterval/2_T8.2/promptTrigger_107.root does not exist!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+/junofs/users/huangx/myProject/CCSNMonitor/PromptMonitor/myJob/result/sn_intp1311.data/0/410/TimeInterval/2_T8.2/promptTrigger_159.root does not exist!
+Trigger not found!
+Trigger not found!
+/junofs/users/huangx/myProject/CCSNMonitor/PromptMonitor/myJob/result/sn_intp1311.data/0/410/TimeInterval/2_T8.2/promptTrigger_163.root does not exist!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+/junofs/users/huangx/myProject/CCSNMonitor/PromptMonitor/myJob/result/sn_intp1311.data/0/410/TimeInterval/2_T8.2/promptTrigger_171.root does not exist!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+/junofs/users/huangx/myProject/CCSNMonitor/PromptMonitor/myJob/result/sn_intp1311.data/0/410/TimeInterval/2_T8.2/promptTrigger_181.root does not exist!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+/junofs/users/huangx/myProject/CCSNMonitor/PromptMonitor/myJob/result/sn_intp1311.data/0/410/TimeInterval/2_T8.2/promptTrigger_196.root does not exist!
+Trigger not found!
+Trigger not found!
+Trigger not found!
+[0.128191613, 0.032454131000000004, 0.090294998, 0.121173972, 0.129181934, 0.078798848, 0.037692575, 0.250339456, 0.32390834900000004, 0.059377571000000004, 0.137351991, 0.025440038, 0.038231578, 0.7085434030000001, 0.056423394, 0.22261967100000002, 0.058501809, 0.07528965400000001, 0.14769000200000001, 0.18027583400000002, 0.21750042800000002, 0.043422059000000006, 0.034134803000000005, 0.08132410100000001, 0.034764981, 0.073285483, 0.15738771000000001, 0.19678003400000002, 0.087245603, 0.039478697, 0.06874118, 0.085270342, 0.053716233, 0.275658887, 0.032521573000000005, 0.09174652100000001, 0.084791242, 0.033769810000000004]
+
+real	0m14.079s
+user	0m4.283s
+sys	0m0.449s

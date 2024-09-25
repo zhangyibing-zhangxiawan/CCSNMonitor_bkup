@@ -1,0 +1,92 @@
+[
+{
+    "tagname": "snIBD",
+    "conditions": [
+    {
+        "name": "penergy",
+        "min": 10,
+        "max": 200
+    },
+    {
+        "name": "denergy",
+        "min": 1.8,
+        "max": 2.9
+    },
+    {
+        "name": "distance",
+        "min": 0,
+        "max": 1500
+    },
+    {
+        "name": "deltaT",
+        "min": 0,
+        "max": 1000000
+    },
+    {
+        "name": "rCut",
+        "min": 0,
+        "max": 17200
+    }
+    ]
+},
+{
+    "tagname": "preIBD",
+    "conditions": [
+    {
+        "name": "penergy",
+        "min": 0.7,
+        "max": 3.2
+    },
+    {
+        "name": "denergy",
+        "min": 1.5,
+        "max": 2.9
+    },
+    {
+        "name": "distance",
+        "min": 0,
+        "max": 1500
+    },
+    {
+        "name": "deltaT",
+        "min": 0,
+        "max": 1000000
+    },
+    {
+        "name": "rCut",
+        "min": 0,
+        "max": 17200
+    }
+    ]
+},
+{
+    "tagname": "bothIBD",
+    "conditions": [
+    {
+        "name": "penergy",
+        "min": 10,
+        "max": 3.2
+    },
+    {
+        "name": "denergy",
+        "min": 1.5,
+        "max": 2.9
+    },
+    {
+        "name": "distance",
+        "min": 0,
+        "max": 1500
+    },
+    {
+        "name": "deltaT",
+        "min": 0,
+        "max": 1000000
+    },
+    {
+        "name": "rCut",
+        "min": 0,
+        "max": 17200
+    }
+    ]
+}
+]

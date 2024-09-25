@@ -1,0 +1,4 @@
+PKG(readSNEvt
+    DEPENDS
+    SNEvent
+    )

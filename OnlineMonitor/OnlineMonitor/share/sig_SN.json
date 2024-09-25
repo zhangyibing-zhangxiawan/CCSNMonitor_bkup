@@ -1,0 +1,18 @@
+[
+{
+    "signature_id": "EVtxRec",
+    "criterias": [
+    {
+        "behaviour": "accept",
+        "mark": "SNCand",
+        "items": [
+        {
+            "name": "energy",
+            "value": 500,
+            "type": "MAX"
+        }
+        ]
+    }
+    ]
+}
+]

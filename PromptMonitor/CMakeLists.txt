@@ -1,0 +1,9 @@
+PKG(PromptMonitor
+    DEPENDS
+    junosw::EvtNavigator
+    junosw::ElecEvent
+    junosw::CalibEvent
+    junosw::ElecTruth
+    MonitorMethod
+    SNiPER::RootWriterLib
+    )

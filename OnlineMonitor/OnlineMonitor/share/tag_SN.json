@@ -1,0 +1,25 @@
+[
+{
+    "name": "SNCand",
+    "storeFormat": 0,
+    "tag": "0x00000000"
+},
+{
+    "name": "snIBD",
+    "storeFormat": 0,
+    "ptag": "0x00000001",
+    "dtag": "0x00000002"
+},
+{
+    "name": "preIBD",
+    "storeFormat": 0,
+    "ptag": "0x00000010",
+    "dtag": "0x00000020"
+},
+{
+    "name": "bothIBD",
+    "storeFormat": 0,
+    "ptag": "0x00000100",
+    "dtag": "0x00000200"
+}
+]

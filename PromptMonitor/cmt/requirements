@@ -1,0 +1,15 @@
+package PromptMonitor
+
+use SniperKernel v*
+use EvtNavigator v* DataModel
+use RootWriter v* SniperSvc
+use ROOT v* Externals
+use ElecEvent v* DataModel
+use CalibEvent v* DataModel
+use ElecTruth v* DataModel
+use MonitorMethod v* CCSNMonitor
+
+library PromptMonitor *.cc
+
+apply_pattern install_python_modules
+apply_pattern linker_library library=PromptMonitor
